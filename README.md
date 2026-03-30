@@ -1,8 +1,13 @@
 # TNT Duper
 
-This mod lets dispensers duplicate TNT. When a dispenser is given a TNT block, it will spawn a TNT entity but keep the original TNT in the dispenser, so you can keep using it over and over. This makes it easy to set up automatic TNT farms or traps without needing to constantly restock the dispenser.
+A simple mod that lets dispensers copy and spit out TNT over and over without using up the block.
 
-The change is simple: the dispenser does not consume the TNT item, so the same piece of TNT can be used again and again.
+## What It Does
+
+- When a dispenser with TNT tries to give you the TNT, it instead creates a new primed TNT entity that starts its fuse.
+- The original TNT stays in the dispenser, so you can keep pulling it out again and again.
+- The spawned TNT works like normal TNT—you can ignite it, move it, or let it explode.
+- No new items, blocks, commands, or mobs are added; it only changes how dispensers handle TNT.
 
 ---
 
