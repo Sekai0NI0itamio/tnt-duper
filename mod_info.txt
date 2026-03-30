@@ -1,6 +1,6 @@
 jar_name=TNT-Duper.jar
-requested_jar_path=To Be Decompiled/auto-create-modrinth/20260330-113627-602a44f2/TNT-Duper.jar
-resolved_jar_path=To Be Decompiled/auto-create-modrinth/20260330-113627-602a44f2/TNT-Duper.jar
+requested_jar_path=To Be Decompiled/auto-create-modrinth/20260330-130339-b21d3a8d/TNT-Duper.jar
+resolved_jar_path=To Be Decompiled/auto-create-modrinth/20260330-130339-b21d3a8d/TNT-Duper.jar
 loader=forge
 loader_detail=fml
 metadata_source=mcmod.info
