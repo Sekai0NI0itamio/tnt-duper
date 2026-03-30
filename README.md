@@ -1,15 +1,13 @@
 # TNT Duper
 
-The mod lets dispensers duplicate TNT. When a dispenser with TNT is activated, it spawns a primed TNT entity without consuming the TNT item, so the same TNT can be used over and over.
+A tiny Forge mod that changes dispensers so they can duplicate TNT without consuming it.
 
 ## What It Does
-
-- Dispensers that contain TNT will spawn a primed TNT entity when activated.
-- The spawned TNT behaves like normal TNT and will explode after a short delay.
-- Because the dispenser does not consume the TNT, it can keep spawning TNT repeatedly.
-- The mod also adds new tools and items, but they are not required for the TNT duplication effect.
+- Dispensers duplicate TNT when they dispense it, leaving the original TNT inside.
+- The duplicated TNT can be taken from the dispenser again.
+- When TNT is dispensed, a primed TNT entity appears and will explode.
+- The dispenser keeps the TNT item, allowing infinite TNT dispensing.
 - Dispensers can fire TNT without using up the TNT item.
-- The mod adds new tools and items, but they are not required for the TNT duplication effect.
 
 ---
 
