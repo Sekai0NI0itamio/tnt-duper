@@ -4,6 +4,12 @@ This mod lets dispensers duplicate TNT. When a dispenser is given a TNT block, i
 
 The change is simple: the dispenser does not consume the TNT item, so the same piece of TNT can be used again and again.
 
----
+## Quick Facts
 
-This github repository is auto created using itamio's Mod Compiler repository workflow.
+
+
+- Summary: Wanting to have infinite TNT from dispensers?
+
+- Loader: `forge`
+
+- Supported Minecraft versions: `1.12.2`
