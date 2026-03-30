@@ -1,14 +1,15 @@
 # TNT Duper
 
-A simple mod that changes how dispensers handle TNT. When a dispenser contains TNT, it will duplicate the TNT instead of using it up, spawning a primed TNT entity each time it is activated.
+The mod lets dispensers duplicate TNT. When a dispenser with TNT is activated, it spawns a primed TNT entity without consuming the TNT item, so the same TNT can be used over and over.
 
 ## What It Does
-- Dispensers with TNT duplicate the TNT without consuming it, so you can spawn primed TNT repeatedly.
-- The duplicated TNT behaves like normal TNT, including a 4‑second fuse and explosion.
-- The effect triggers automatically when the dispenser is activated (e.g., by redstone).
-- The spawned TNT can be moved, collected, or exploded just like regular TNT.
+
+- Dispensers that contain TNT will spawn a primed TNT entity when activated.
+- The spawned TNT behaves like normal TNT and will explode after a short delay.
+- Because the dispenser does not consume the TNT, it can keep spawning TNT repeatedly.
+- The mod also adds new tools and items, but they are not required for the TNT duplication effect.
 - Dispensers can fire TNT without using up the TNT item.
-- The duplicated TNT behaves like normal TNT, including explosion after 4 seconds.
+- The mod adds new tools and items, but they are not required for the TNT duplication effect.
 
 ## Quick Facts
 
